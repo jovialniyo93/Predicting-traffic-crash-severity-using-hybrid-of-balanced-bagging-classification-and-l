@@ -63,9 +63,9 @@ Permutation importance plays a significant role in removing an impurity-based fe
 
 ## Dataset
 
-**The Data-Set is Available in below links:**
+**The Dataset is Available in the link below:**
 
-[To download Dataset you can use this link:] [Click Here](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data). Unzip the data sets into the folder *data*.	
+[To download Dataset you can use this link:] [Click Here](https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data). Place the data sets into the folder *data*.	
 
 
 ## Getting Started
